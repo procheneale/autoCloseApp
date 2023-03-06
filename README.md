@@ -5,8 +5,9 @@ autoCloseApp closes the latest program opened on MacOSX on a timer (in hours). T
 You can only use integers as input.
 
 # Running
-'''
+```sh
+git clone https://github.com/procheneale/autoCloseApp.git
 cd autoCloseApp
 pip install keyboard
 python app.py
-'''
+```
